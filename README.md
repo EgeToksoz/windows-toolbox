@@ -7,6 +7,7 @@
 - Being able to choose different partition maps for installation 
 
 	Full (Recommended Windows Partition Layout)
+	
 	Mini (Just the EFI and Primary Windows Partition)
 - Installing from a custom WIM file as easy and fast as possible
 - No EFI muckery like the official way like efi on one disk and windows on other disk in the computer
