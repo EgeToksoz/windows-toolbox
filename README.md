@@ -4,6 +4,7 @@
 - Holds your hand during the installation process
 - Skip Windows Hardware Checks
 - Deploy computers in minutes
+- Fully Supports and Embraces Ventoy with drag & drop bat file available
 - Being able to choose different partition maps for installation 
 
 	Full (Recommended Windows Partition Layout)
