@@ -27,3 +27,4 @@
 	Windows or WinPE doesn't mount EFI partitions automatically now it's 2 key presses away
 ### ☑️ TO-DO
 - [ ] Renaming Prompts
+- [ ] Legacy BIOS Support
