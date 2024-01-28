@@ -7,9 +7,9 @@
 - Fully Supports and Embraces Ventoy with drag & drop bat file available
 - Being able to choose different partition maps for installation 
 
-	Full (Recommended Windows Partition Layout)
+	- Full (Recommended Windows Partition Layout)
 	
-	Mini (Just the EFI and Primary Windows Partition)
+	- Mini (Just the EFI and Primary Windows Partition)
 - Installing from a custom WIM file as easy and fast as possible
 - No EFI muckery like the official way like efi on one disk and windows on other disk in the computer
 - Speedrun levels of speed it's a TAS but Glitchless%
@@ -17,16 +17,16 @@
 ### Toolbox Features
 - ESD to WIM Convert
 
-	Having multiple language iso with smaller size 
+	- Having multiple language iso with smaller size 
 - Adding Drivers to WIM Files
 
-	Making it easier to add drivers to wim files which is preferable on special hardware
+	- Making it easier to add drivers to wim files which is preferable on special hardware
 - DISM Triplet
 
-	You can do Capture, Append and Applying of WIM files from one place 
+	- You can do Capture, Append and Applying of WIM files from one place 
 - Mounting EFI
 
-	Windows or WinPE doesn't mount EFI partitions automatically now it's 2 key presses away
+	- Windows or WinPE doesn't mount EFI partitions automatically now it's 2 key presses away
 ### TO-DO
 - [ ] Renaming Prompts
 - [ ] Localization 
