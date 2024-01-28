@@ -1,18 +1,16 @@
 # 💻 Windows Installation and Utility Toolbox 
 
-### Installer's Features
-- Holds your hand during the installation process
+### Installer Features
 - Skip Windows Hardware Checks
 - Deploy computers in minutes
 - Fully Supports and Embraces Ventoy with drag & drop bat file available
 - Being able to choose different partition maps for installation 
 
 	- Full (Recommended Windows Partition Layout)
-	
 	- Mini (Just the EFI and Primary Windows Partition)
+
 - Installing from a custom WIM file as easy and fast as possible
-- No EFI muckery like the official way like efi on one disk and windows on other disk in the computer
-- Speedrun levels of speed it's a TAS but Glitchless%
+- No EFI mockery like the official way like EFI on one disk and windows on other disk in the computer
 
 ### Toolbox Features
 - ESD to WIM Convert
@@ -30,7 +28,6 @@
 ### TO-DO
 - [ ] Renaming Prompts
 - [ ] Localization 
-
 ## A little bit of backstory
 
 This was a passion project of mine which started more than a year ago when i had to drop off my macbook to fix the plague of butterfly keyboard and there is a chance that they can reset the laptop for testing or just changing the logic board because of touch id mismatch (which happened 2 times). Which can result in lost data or lost settings and applications that have to be redownloaded. I tried mac specific solutions like Winclone but it was never stable (macos and ntfs what a great story blabla) enough for me to use it on a daily machine.
