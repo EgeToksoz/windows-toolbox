@@ -14,7 +14,7 @@ echo esd	Convert ESD files to WIM files
 echo boot	    Add .ini drivers to boot.wim file 
 echo efi	    Mount the first partition of selected disk
 echo mbp    Install Macbook Pro Drivers after installer completes
-set /P sel= What do you want to do?
+set /P sel= What do you want to do?: 
 if %sel% == capture goto capture
 if %sel% == append goto append
 if %sel% == apply goto apply
